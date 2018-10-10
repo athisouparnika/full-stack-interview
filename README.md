@@ -13,7 +13,7 @@ Each topic contains questions marked with different level of dificulty and answe
 ## Client Side
 1. [JavaScript](./tech/javascript.MD)
 2. [React](./tech/react.MD)
-3. [Redux](./tech/redux.MD)
+3. [Redux](./tech/redux.MD)//hats off
 
 ## Server Side
 1. ASP.NET
